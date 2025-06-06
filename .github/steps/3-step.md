@@ -27,9 +27,9 @@ For this activity, we will use a blog-ready theme named "minima".
 
    ```yml
    theme: minima
-   title: {{login}}'s personal blog
+   title: {{ login }} 's personal blog
    description: This is where I share cooool stuff about my life
-   author: {{login}} 
+   author: {{ login }} 
    ```
 
    </details>
